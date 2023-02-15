@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Alexander M. Manley"
 title_separator          : "-"
-name                     : &name "Alexander (Alex) Manley"
+name                     : &name "Alex Manley"
 description              : &description "Hi Everyone! My name is Alex, I am an undergraduate computer engineering student at the University of Kansas with interests in Computer Architecture and Systems!"
 url                      : https://amanley97.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
