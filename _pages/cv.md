@@ -26,23 +26,11 @@ Peraton Incorporated - USPS Central Repair Facility
 Skills
 ======
 * Programming Languages
-  * C++ (Object-Oriented)
-  * VHDL
-  * Python
-  * C
-  * Bash
+  * C++ (Object-Oriented), VHDL, Python, C, Bash
 * Software
-  * Xilinx Vivado Suite
-  * AutoDesk EAGLE
-  * OrCAD
-  * KiCAD
-  * QEMU
-  * Gem5
+  * Xilinx Vivado Suite, AutoDesk EAGLE, OrCAD, KiCAD, QEMU, Gem5
 * Lab Equipment
-  * Multimeter
-  * Function Generator
-  * Oscilloscope
-  * Soldering Station
+  * Multimeter, Function Generator, Oscilloscope, Soldering Station
 
 Research
 ======
