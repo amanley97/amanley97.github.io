@@ -7,15 +7,14 @@ author_profile: true
 
 {% include base_path %}
 
-======
-Beginning in November of 2020, I became an Undergraduate Research Assistant for the Electrical Engineering and Computer Science department of the University of Kansas, under mentorship of Professor [Mohammad Alian](https://alian-eecs.ku.edu/).His work revolves around the idea that with the development of big data it has become critical to better develop our systems to be highly efficient to handle this kind of extensive workload. Through my work on his team I have developed a passion for innovation of computer hardware design to fuel the next generation of computer systems.
+Beginning in November of 2020, I became an Undergraduate Research Assistant for the Electrical Engineering and Computer Science department of the University of Kansas, under mentorship of Professor [Mohammad Alian](https://alian-eecs.ku.edu/). His work revolves around the idea that with the development of big data it has become critical to better develop our systems to be highly efficient to handle this kind of extensive workload. Through my work on his team I have developed a passion for innovation of computer hardware design to fuel the next generation of computer systems.
 
 My Projects
 ======
 ### The Growing Problem of Architectural Simulators.
 "A Deep Dive into gem5 Profiling: Finding and Addressing Bottlenecks"
 
-* Background: Gem5 [(More info)](https://www.gem5.org/) is a state-of-the-art full system computer simulator that is widely used in academia and the industry. It's flexibility and extensive dedicated community make for a program which is constantly improving the state of computer architecture design. With its extensive use, it is important to ensure a program that is efficient in order to reduce the overall time it takes to run simulations.
+* Background: [Gem5](https://www.gem5.org/) is a state-of-the-art full system computer simulator that is widely used in academia and the industry. It's flexibility and extensive dedicated community make for a program which is constantly improving the state of computer architecture design. With its extensive use, it is important to ensure a program that is efficient in order to reduce the overall time it takes to run simulations.
 
 * Objective: That being said, the goal of our project is to obtain a deep comprehensive benchmark and profile of Gem5 to understand it's strengths and weaknesses. With this profile we can understand where in the program lie its bottlenecks and offer improvements on how the efficiency can be improved.
 
@@ -31,7 +30,7 @@ As an undergraduate, my role in this project took a more implementation approach
 
 
 
-### Memory Controllers
+### A World Limited by Data Transfer.
 "A Block Efficient Memory Controller"
 
 * Project in progress, more info soon!
