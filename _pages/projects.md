@@ -9,7 +9,6 @@ author_profile: true
 
 Here are some projects that have allowed the development of my skills.
 
-======
 ## Embedded Systems Car
 * EECS 388 (Embedded Systems)
 
