@@ -4,8 +4,7 @@ permalink: /blog/
 title: "Blog posts"
 author_profile: true
 ---
-<p>The intent of this blog is to provide an avenue through which I can share my journey to develop new skills to prepare myself for the industry, stay tuned for some exciting updates!
-</p>
+The intent of this blog is to provide an avenue through which I can share my journey to develop new skills to prepare myself for the industry, stay tuned for some exciting updates!
 
 {% include base_path %}
 {% capture written_year %}'None'{% endcapture %}
