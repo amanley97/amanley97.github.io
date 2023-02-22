@@ -31,7 +31,7 @@ There were many challenges that needed to be overcome through the course of the 
 * Motor controller had to be redesigned to operate AC motor instead of stepper motor.
 * 3D Printed parts were not strong enough in actual operation.
 
-Overall the project was successful and recieved praise from executives at the company. Due to the reduction in the need for the dimensioner to be sent to the off-site facility, the project provided $[Coming Soon] in average cost saving. In addition, documentation was wrote on the project to ensure maintenence and repatability as well as easy reference on parts and system hardware layout.
+Overall the project was successful and recieved praise from executives at the company. Due to the reduction in the need for the dimensioner to be sent to the off-site facility, the project provided between $1,760 - $5,000 in average cost saving per repair. In addition, documentation was wrote on the project to ensure maintenence and repatability as well as easy reference on parts and system hardware layout.
 
 Skills obtained:
 * Hardware design and prototyping
