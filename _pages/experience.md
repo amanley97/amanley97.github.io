@@ -31,7 +31,7 @@ There were many challenges that needed to be overcome through the course of the 
 * Motor controller had to be redesigned to operate AC motor instead of stepper motor.
 * 3D Printed parts were not strong enough in actual operation.
 
-Overall the project was successful and recieved praise from executives at the company. Due to the reduction in the need for the dimensioner to be sent to the off-site facility, the project provided between $1,760 - $5,000 in average cost saving per repair. In addition, documentation was wrote on the project to ensure maintenence and repatability as well as easy reference on parts and system hardware layout.
+Overall the project was successful and recieved praise from executives at the company. Due to the reduction in the need for the dimensioner to be sent to the off-site facility, the project provided between 1,760 - 5,000 dollars in average cost savings per repair. In addition, documentation was wrote on the project to ensure maintenence and repatability as well as easy reference on parts and system hardware layout.
 
 Skills obtained:
 * Hardware design and prototyping
@@ -44,7 +44,7 @@ Skills obtained:
 
 (1) Motor Controller Reverse Engineering
 * Problem: Commonly repaired motor controller board did not have complete documentation on schematics, part list, and board layout.
-I took some time to design a schematic and expand documentation for this particular part. Overall, this allowed for a $1,200 cost saving per board as they no longer had to be completely replaced. Likewise, the lack of documentation costed technicians time to diagnose common problems. My documentation now allowed for an average of 50% increase in repair time.
+I took some time to design a schematic and expand documentation for this particular part. Overall, this allowed for a 1,200 dollar cost saving per board as they no longer had to be completely replaced. Likewise, the lack of documentation costed technicians time to diagnose common problems. My documentation now allowed for an average of 50% increase in repair time.
 
 (2) Conveyor Test Loop Reverse Engineering
 * Problem: Recently acquired conveyor belt test loop did not have adequate documentation and contained some problems prohibiting operation.
