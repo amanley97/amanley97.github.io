@@ -8,10 +8,9 @@ author_profile: true
 {% include base_path %}
 
 With my goal of becoming a computer hardware designer, I have been fortunate to have had the opportunity to grow from these experiences.
-------
 
-#Internships
-
+Internships
+======
 ## Electrical Engineering Intern
 "May 2022 - August 2022"
 
@@ -45,7 +44,7 @@ Skills obtained:
 
 (1) Motor Controller Reverse Engineering
 * Problem: Commonly repaired motor controller board did not have complete documentation on schematics, part list, and board layout.
-I took some time to design a schematic and expand documentation for this particular part. Overall, this allowed for a `1,200 dollar` cost saving per board as they no longer had to be completely replaced. Likewise, the lack of documentation costed technicians time to diagnose common problems. My documentation now allowed for an average of 50% increase in repair time.
+I took some time to design a schematic and expand documentation for this particular part. Overall, this allowed for a `1,200 dollars` in cost saving per board as they no longer had to be completely replaced. Likewise, the lack of documentation costed technicians time to diagnose common problems. My documentation now allowed for an average of 50% increase in repair time.
 
 (2) Conveyor Test Loop Reverse Engineering
 * Problem: Recently acquired conveyor belt test loop did not have adequate documentation and contained some problems prohibiting operation.
