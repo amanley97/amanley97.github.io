@@ -16,7 +16,7 @@ This was more of a computer engineering project that was a part of our senior de
 
 * Skills: C programming
 
-![Transmitter](https://amanley97.github.io/files/transmitter.png) ![Receiver](https://amanley97.github.io/files/receiver.jpg)
+![Transmitter](https://amanley97.github.io/files/transmitter.png "Transmitter") ![Receiver](https://amanley97.github.io/files/receiver.png "Receiver")
 
 ## Linear Power Supply
 * EECS 541 (Senior Design I) - Fall 2022
@@ -25,7 +25,7 @@ This was the first of our senior design projects in which we designed a linear p
 
 * Skills: Circuit design, PSpice, Soldering
 
-![LPS Schematic](https://amanley97.github.io/files/lps-schematic.png) ![LPS Board](https://amanley97.github.io/files/lps-board.jpg)
+![LPS Schematic](https://amanley97.github.io/files/lps-schematic.png "Schematic") ![LPS Board](https://amanley97.github.io/files/lps-board.jpg "Protoboard"){: width=80%}
 
 ## Embedded Systems Car
 * EECS 388 (Embedded Systems) - Fall 2021
@@ -41,4 +41,4 @@ In this project, we designed a custom frequency filter according to some given d
 
 * Skills: Circuit design, PCB Software
 
-![Custom Filter Design](https://amanley97.github.io/files/filter.png)
+![Custom Filter Design](https://amanley97.github.io/files/filter.png "Filter Board")
