@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-Beginning in November of 2020, I became an Undergraduate Research Assistant for the Electrical Engineering and Computer Science department of the University of Kansas, under mentorship of Professor [Mohammad Alian](https://alian-eecs.ku.edu/) as a part of the [Architecture Research Group](arg.ku.edu). Our work revolves around the idea that with the development of big data it has become critical to better develop our systems to be highly efficient to handle this kind of extensive workload. Through my work on his team I have developed a passion for innovation of computer hardware design to fuel the next generation of computer systems.
+Beginning in November of 2020, I became an Undergraduate Research Assistant for the Electrical Engineering and Computer Science department of the University of Kansas, under mentorship of Professor [Mohammad Alian](https://alian-eecs.ku.edu/) as a part of the [Architecture Research Group](https://arg.ku.edu/). Our work revolves around the idea that with the development of big data it has become critical to better develop our systems to be highly efficient to handle this kind of extensive workload. Through my work on his team I have developed a passion for innovation of computer hardware design to fuel the next generation of computer systems.
 
 My Projects
 ======
