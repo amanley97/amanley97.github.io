@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-Beginning in November of 2020, I became an Undergraduate Research Assistant for the Electrical Engineering and Computer Science department of the University of Kansas, under mentorship of Professor [Mohammad Alian](https://alian-eecs.ku.edu/). His work revolves around the idea that with the development of big data it has become critical to better develop our systems to be highly efficient to handle this kind of extensive workload. Through my work on his team I have developed a passion for innovation of computer hardware design to fuel the next generation of computer systems.
+Beginning in November of 2020, I became an Undergraduate Research Assistant for the Electrical Engineering and Computer Science department of the University of Kansas, under mentorship of Professor [Mohammad Alian](https://alian-eecs.ku.edu/) as a part of the [Architecture Research Group](arg.ku.edu). Our work revolves around the idea that with the development of big data it has become critical to better develop our systems to be highly efficient to handle this kind of extensive workload. Through my work on his team I have developed a passion for innovation of computer hardware design to fuel the next generation of computer systems.
 
 My Projects
 ======
@@ -28,7 +28,7 @@ There were many different analysis methods that were utilized:
 
 As an undergraduate, my role in this project took a more implementation approach. Working closely with the graduate researchers, I developed the full-system simulation environment which contained the benchmark workloads. Likewise, I applied this knowledge to develop the simulation environment to allow micro-architectural exploration of gem5 bottlenecks. I developed a project stack built of FPGA hardware, Firesim, Gem5, and a C++ workload from bottom up.
 
-
+See my publications tab to view our whitepages!
 
 ### A World Limited by Data Transfer.
 "A Block Efficient Memory Controller"
