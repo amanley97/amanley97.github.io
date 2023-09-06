@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Alexander M. Manley"
 title_separator          : "-"
 name                     : &name "Alex Manley"
-description              : &description "Undergraduate Computer Engineer"
+description              : &description "Graduate Computer Engineer"
 url                      : https://amanley97.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "amanley97/amanley97.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Alex Manley"
   avatar           : "profile.png"
-  bio              : "Undergraduate Computer Engineer and Researcher with interests in Computer Architecture and Hardware Design."
+  bio              : "Graduate Computer Engineer and Researcher with interests in Computer Architecture and Hardware Design."
   location         : "University of Kansas"
   employer         :
   pubmed           :

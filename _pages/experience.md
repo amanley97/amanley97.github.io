@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Experience"
-permalink: /exp/
+permalink: /experience/
 author_profile: true
 ---
 
@@ -11,6 +11,12 @@ With my goal of becoming a computer hardware designer, I have been fortunate to 
 
 Internships
 ======
+## RF Hardware Engineering Intern
+"May 2023 - August 2023"
+
+
+
+
 ## Electrical Engineering Intern
 "May 2022 - August 2022"
 
