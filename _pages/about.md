@@ -8,6 +8,12 @@ redirect_from:
 ---
 ![KU-engineering](https://amanley97.github.io/files/kueng.jpg)
 
-Hi everyone! My name is Alex and I'm a computer engineering undergraduate student at the University of Kansas. My interests lie in the field of computer architecture and hardware design, where I enjoy learning about the intricacies of designing and optimizing the internal structure of computer systems. Through my studies, I have gained a deep understanding of the underlying principles that govern the operation of digital systems, and I am always eager to explore new technologies and advancements in the field. As a passionate learner and problem-solver, I am excited to contribute to the development of cutting-edge technologies that have the potential to revolutionize the way we interact with computers and technology.
+Hello All! My name is Alex, I am a first year Masters student in Computer Engineering at the University of Kansas.
+Currently, I am under advisment by [Dr. Mohammad Alian](https://alian-eecs.ku.edu/) in the Architecture Research Group.
+My primary interests are in Computer Architecture and System design. Throughout my studies I have obtain a deep understanding
+of advanced hardware topics, programming, and computer system simulations. Please check out my research page for more details!
 
-In May of 2023, I will obtain my Bachelor of Science in Computer Engineering. Following this, I will work to obtain my Masters of Science in Computer Engineering by 2025; both from the University of Kansas.
+In my free time, I enjoy hiking and admiring the great outdoors as well as carpentry projects!
+Recently, I spent my time learning electrical, plumbing, painting, and finish work helping build my families rural barndominium.
+
+In the future, I hope to join the big tech industry and contribute to cutting edge processing and be on the forefront of technology!
