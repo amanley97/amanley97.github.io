@@ -1,5 +1,4 @@
 ---
-layout: archive
 title: "Projects"
 permalink: /projects/
 author_profile: true
@@ -23,7 +22,7 @@ Technologies used:
 
 Skills: Python Programming, System design, Hardware prototyping, Wireless communication
 
-![Overview](https://amanley97.github.io/files/seniordesign.jpeg "Overview")
+![Overview](https://amanley97.github.io/files/seniordesign.jpg "Overview")
 
 See [Here](https://github.com/amanley97/AI-larm) for project code!
 
