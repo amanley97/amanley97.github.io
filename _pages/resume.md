@@ -10,12 +10,12 @@ redirect_from:
 
 Curriculum Vitae [PDF](https://amanley97.github.io/files/resume.pdf) (Updated Sept. 2023)
 
-Education
+## Education
 ======
 * M.S. in Computer Engineering, The University of Kansas, Expected 2025
 * B.S. in Computer Engineering, The University of Kansas, 2023
 
-Work experience
+## Work experience
 ======
 The University of Kansas
 * Graduate Teaching Assistant
@@ -33,7 +33,7 @@ Peraton Incorporated - USPS Central Repair Facility
 * Topeka, Kansas
 * May. 2022 - August 2022
 
-Skills
+## Skills
 ======
 * Programming Languages
   * C++ (Object-Oriented), VHDL, Python, C, Bash
@@ -42,7 +42,7 @@ Skills
 * Lab Equipment
   * Multimeter, Function Generator, Oscilloscope, Soldering Station
 
-Research
+## Research
 ======
 The University of Kansas - Electrical Engineering and Computer Science Dept.
 * Advisor: Dr. Mohammad Alian
@@ -57,7 +57,7 @@ Undergraduate Career:
 * Lawrence, Kansas
 * Nov. 2020 - May 2023
 
-Publications
+## Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
