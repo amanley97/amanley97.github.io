@@ -6,19 +6,23 @@ author_profile: true
 
 {% include base_path %}
 
-## Graduate Studies
+Contributing to the next generation of hardware and computer system innovations.
+
+# Graduate Studies
 As of August 2023, I have begun the next chapter of my academic career as a Master of Science in Computer Engineering candidate at the University of Kansas, [Department of Electrical Engineering and Computer Science](https://eecs.ku.edu/). I am currently under the advisment of [Dr. Mohammad Alian](https://alian-eecs.ku.edu/) and do research for the [Architecture Research Group](https://arg.ku.edu/) (Est. 2023).
 
 My main project will be developing an educational training platform to teach the next generation of computer architects. See more information on the project [here](https://eecs.ku.edu/eecs-professors-receive-200000-nsf-award-develop-ai-driven-computer-architecture-learning-tool). See information on the NSF funding [here](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2327971&HistoricalAwards=false).
 
 > More updates coming soon!
 
-## Undergraduate Career
+
+
+# Undergraduate Career
 
 Beginning in November of 2020, I became an Undergraduate Research Assistant for the Electrical Engineering and Computer Science department of the University of Kansas, under mentorship of Professor Mohammad Alian. Our work revolves around the idea that with the development of big data it has become critical to better develop our systems to be highly efficient to handle this kind of extensive workload. Through my work on his team I have developed a passion for innovation of computer hardware design to fuel the next generation of computer systems.
 
-My Projects
-======
+## My Projects
+
 ### The Growing Problem of Architectural Simulators.
 "A Deep Dive into gem5 Profiling: Finding and Addressing Bottlenecks"
 
