@@ -9,6 +9,24 @@ author_profile: true
 
 Here are some projects that have allowed the development of my skills.
 
+## (AI)-larm: A Modular Alarm System
+* EECS 542 (Senior Design II) - Spring 2023
+
+For our senior design capstone we designed and built a modular alarm system. The goal of which was to be a simple wireless alarm system allowing the user to dynamically set up their environment based on their needs. The system is optimal for users like apartment/office renters who may not have the option to place wires through walls to install a traditional alarm system. Additionally, the system has a feature which allows the user to deactivate the alarm using facial recognition. Therefore, remaining cutting edge and useful in a variety of situations.
+
+During the project, I acted as the Team Leader - coordinating both the hardware and software teams, ensuring project goals are achieved, and providing assistance to software and hardware as needed.
+
+Technologies used:
+* Raspberry Pi (Python GUI)
+* Facial Recognition (OpenCV)
+* ESP32 (Bluetooth)
+
+Skills: Python Programming, System design, Hardware prototyping, Wireless communication
+
+![Overview](https://amanley97.github.io/files/seniordesign.jpeg "Overview")
+
+See [Here](https://github.com/amanley97/AI-larm) for project code!
+
 ## Microcontroller Infrared Communication System
 * EECS 541 (Senior Design I) - Fall 2022
 

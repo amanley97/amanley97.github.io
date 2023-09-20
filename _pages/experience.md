@@ -14,7 +14,17 @@ Internships
 ## RF Hardware Engineering Intern
 "May 2023 - August 2023"
 
+During the summer of 2023 I had the opportunity to work as a RF Hardware Engineering Intern for [Taikan Company](https://www.taikan.com), a designer and manufacturer of broadband networking equipment. From day one, I was able to be a part of a company developing real products with customers all around the globe. As a part of the engineering team, I was responsible for a few projects which directly affected the daily company operation.
 
+Taikan has been in business for 50 years, therefore it is extremely important for their operations to stay up to date and cutting edge. As such, part of my responsibility was to update many product designs to modern PCB design software. Not only did this give me more experience with circuit design as well as an in-depth understanding of RF design, but I also had direct impact on the streamlining of the design process. Management was very receptive of my suggestions and inquiries into where bottlenecks occur and methods to mitigate them.
+
+Skills Obtained:
+* Hardware Reverse Engineering
+* Design Methodologies and Manufacturing Principles
+* Printed Circuit Board EDA
+* Cross-discipline Communication
+* Detailed Research Techniques
+* Efficient Workflow Documentation
 
 
 ## Electrical Engineering Intern
