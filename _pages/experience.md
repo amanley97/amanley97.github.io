@@ -25,6 +25,9 @@ Skills Obtained:
 * Detailed Research Techniques
 * Efficient Workflow Documentation
 
+Recomendations Received:
+![Recommendation](https://amanley97.github.io/files/ewang.png"Recommendation")
+
 
 ## Electrical Engineering Intern
 "May 2022 - August 2022"
