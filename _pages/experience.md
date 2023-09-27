@@ -26,7 +26,7 @@ Skills Obtained:
 * Efficient Workflow Documentation
 
 Recomendations Received:
-![Recommendation](https://amanley97.github.io/files/ewang.png"Recommendation")
+![Recommendation](https://amanley97.github.io/files/ewang.png "Recommendation")
 
 
 ## Electrical Engineering Intern
