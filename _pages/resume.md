@@ -8,7 +8,12 @@ redirect_from:
 
 {% include base_path %}
 
-Curriculum Vitae [PDF](https://amanley97.github.io/files/resume.pdf) (Updated Sept. 2023)
+Current Resume [PDF](https://amanley97.github.io/files/resume.pdf)
+* Contains my most important achievements.
+
+Curriculum Vitae [PDF](https://amanley97.github.io/files/cv.pdf)
+
+Last Updated: (Updated October 2023)
 
 ## Education
 * M.S. in Computer Engineering, The University of Kansas, Expected 2025
