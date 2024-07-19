@@ -10,13 +10,37 @@ Contributing to the next generation of hardware and computer system innovations.
 
 ## Graduate Studies
 
-As of August 2023, I have begun the next chapter of my academic career as a Master of Science in Computer Engineering candidate at the University of Kansas, [Department of Electrical Engineering and Computer Science](https://eecs.ku.edu/). I am currently under the advisment of [Dr. Mohammad Alian](https://alian-eecs.ku.edu/) and do research for the [Architecture Research Group](https://arg.ku.edu/) (Est. 2023).
+As of August 2023, I have begun the next chapter of my academic career as a Master of Science in Computer Engineering candidate at the University of Kansas, [Department of Electrical Engineering and Computer Science](https://eecs.ku.edu/). I am now co-advised by [Dr. Heechul Yun](https://www.ittc.ku.edu/~heechul/) (Univ. of Kansas) and [Dr. Mohammad Alian](https://eecs.ku.edu/people/mohammad-alian) (Cornell) and am affiliated with the [Computer Systems Lab](https://www.ittc.ku.edu/~heechul/people.html).
 
-My main project will be developing an educational training platform to teach the next generation of computer architects. See more information on the project [here](https://eecs.ku.edu/eecs-professors-receive-200000-nsf-award-develop-ai-driven-computer-architecture-learning-tool). See information on the NSF funding [here](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2327971&HistoricalAwards=false).
+### The Future of Computer Architecture.
+"Mastering Computer Architecture through Guided Simulation"
 
-> More updates coming soon!
+This project is developing an educational training platform to teach the next generation of computer architects. See more information on the project [here](https://eecs.ku.edu/eecs-professors-receive-200000-nsf-award-develop-ai-driven-computer-architecture-learning-tool). See information on the NSF funding [here](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2327971&HistoricalAwards=false).
 
+We have developed two modules that make up this project:
+* gEMA: gem5 Extended Modules API - A standardized interface developed to allow gem5 to be integrated into any external program.
+    * View the open source code [here](https://github.com/amanley97/gEMA).
+    * gEMA is under review for contribution to mainline gem5!
 
+* SimScholar: A GUI Platform to allow users to create and run gem5 simulations with ease.
+    * View the open source sode [here](https://github.com/amanley97/SimScholar)   
+
+* SystemSavant: An AI model to offer system insights based on user programs
+    * > Updates coming soon!
+
+### Shared Resource Contention in Real-Time Systems.
+"Providing Determinism and Performance through Bandwidth Regulation."
+
+* Background: Modern commercial-off-the-shelf (COTS) multicore processors feature advanced memory hierarchies that enhance memory-level parallelism (MLP), essential for high performance. However, uneven distribution of cache requests from multiple cores can lead to significant contention, affecting all cores and potentially being exploited through cache bank-aware denial-of-service (DoS) attacks to disrupt system timing predictability.
+
+* Objective: Our project investigates the impact of cache bank contention in multicore processors and explores mitigation strategies to ensure consistent and predictable system performance. By analyzing the causes and effects of contention and developing solutions to minimize it, we aim to improve the robustness and security of multicore systems.
+
+The design was implemented and evaluated on real hardware using an FPGA SoC Framework:
+
+* Hardware: Beagle-V Ahead, Raspberry Pi 4
+* Implementation Tools: FireSim, Chipyard SoC Framework
+* Analysis Tools: Cadence Genus, Innovus, Voltus
+* Benchmarks: Synthetic, SD-VBS, SPEC 2017
 
 ## Undergraduate Career
 
