@@ -4,13 +4,14 @@ permalink: /projects/
 author_profile: true
 ---
 
-{% include base_path %}
+<!-- {% include base_path %} -->
 
 # Open Source Contributions
 
 ## gEMA: gem5 Extended Modules API
 In an effort to extend and maintain gem5 standardized interfaces, we introduce gema: the gem5 external modules api. Building upon the standard library, gema enables a simple HTTP interface to configure, manage, and execute gem5 simulations from any external program.
 > Under Review.
+
 * View the Pull Request [here](https://github.com/gem5/gem5/pull/1288).
 
 ## RISC-V support in MemGuard

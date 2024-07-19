@@ -3,7 +3,7 @@ title: "Per-Bank Bandwidth Regulation of Shared Last-Level Cache for Real-Time S
 collection: publications
 permalink: /publication/publication-3
 excerpt: 'Introducing a hardware bank-aware bandwidth regulation technique.'
-date: 2024-07-31
+date: 2024-07-01
 venue: '2024 Real-Time Systems Symposium (RTSS)'
 citation: 'Currently Under Review.'
 ---
