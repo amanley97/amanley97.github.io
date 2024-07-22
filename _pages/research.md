@@ -10,7 +10,7 @@ Contributing to the next generation of hardware and computer system innovations.
 
 ## Graduate Studies
 
-As of August 2023, I have begun the next chapter of my academic career as a Master of Science in Computer Engineering candidate at the University of Kansas, [Department of Electrical Engineering and Computer Science](https://eecs.ku.edu/). I am now co-advised by [Dr. Heechul Yun](https://www.ittc.ku.edu/~heechul/) (Univ. of Kansas) and [Dr. Mohammad Alian](https://eecs.ku.edu/people/mohammad-alian) (Cornell) and am affiliated with the [Computer Systems Lab](https://www.ittc.ku.edu/~heechul/people.html).
+As of August 2023, I have begun the next chapter of my academic career as a Master of Science in Computer Engineering candidate at the University of Kansas, [Department of Electrical Engineering and Computer Science](https://eecs.ku.edu/). I am now co-advised by [Dr. Heechul Yun](https://www.ittc.ku.edu/~heechul/) (Univ. of Kansas) and [Dr. Mohammad Alian](https://alian.csl.cornell.edu/) (Cornell) and am affiliated with the [Computer Systems Lab](https://www.ittc.ku.edu/~heechul/people.html).
 
 ### The Future of Computer Architecture.
 "Mastering Computer Architecture through Guided Simulation"
