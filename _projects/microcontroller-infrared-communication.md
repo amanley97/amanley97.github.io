@@ -2,6 +2,7 @@
 title: "Microcontroller Infrared Communication System"
 date: 2022-12-01
 categories: projects
+slug: microcontroller-infrared-communication
 ---
 
 **Course:** EECS 541 (Senior Design I) - Fall 2022

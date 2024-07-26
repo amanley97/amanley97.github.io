@@ -2,6 +2,7 @@
 title: "Embedded Systems Car"
 date: 2021-12-01
 categories: projects
+slug: embedded-systems-car
 ---
 
 **Course:** EECS 388 (Embedded Systems) - Fall 2021

@@ -2,6 +2,7 @@
 title: "Custom Filter Design"
 date: 2021-12-01
 categories: projects
+slug: custom-filter-design
 ---
 
 **Course:** EECS 212 (Circuits II) - Fall 2021

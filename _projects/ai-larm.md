@@ -2,6 +2,7 @@
 title: "(AI)-larm: A Modular Alarm System"
 date: 2023-04-01
 categories: projects
+slug: ai-larm
 ---
 
 **Course:** EECS 542 (Senior Design II) - Spring 2023

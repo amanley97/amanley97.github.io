@@ -2,6 +2,7 @@
 title: "Linear Power Supply"
 date: 2022-12-01
 categories: projects
+slug: linear-power-supply
 ---
 
 **Course:** EECS 541 (Senior Design I) - Fall 2022
