@@ -23,11 +23,26 @@ layout: default
     <div class="project-list">
       {% for project in site.projects reversed %}
         <div class="project-item">
-          <h2 class="project-title"><a href="{{ project.url | relative_url }}">{{ project.title }}</a></h2>
-          <div class="project-date">{{ project.date | date: "%B %Y" }}</div>
-          <div class="project-excerpt">{{ project.excerpt }}</div>
+          <h2 class="project-title">
+            <a href="javascript:void(0)" onclick="toggleDetails('project-{{ project.slug }}')">{{ project.title }}</a>
+          </h2>
+          <div class="project-details" id="project-{{ project.slug }}" style="display: none;">
+            <div class="project-date">{{ project.date | date: "%B %Y" }}</div>
+            {{ project.content }}
+          </div>
         </div>
       {% endfor %}
     </div>
   </div>
 </div>
+
+<script>
+function toggleDetails(id) {
+  var element = document.getElementById(id);
+  if (element.style.display === "none") {
+    element.style.display = "block";
+  } else {
+    element.style.display = "none";
+  }
+}
+</script>
