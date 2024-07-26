@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: projects
 title: "Projects"
 permalink: /projects/
 author_profile: true
@@ -7,6 +7,5 @@ author_profile: true
 
 {% include base_path %}
 
-{% for project in site.projects reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+Here are some of the projects I have worked on during my academic and professional career.
+
