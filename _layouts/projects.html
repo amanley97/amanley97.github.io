@@ -26,8 +26,11 @@ layout: default
           <h2 class="project-title">
             <a href="javascript:void(0)" onclick="toggleDetails('project-{{ project.slug }}')">{{ project.title }}</a>
           </h2>
+          <div class="project-meta">
+            <span class="project-date">{{ project.date | date: "%B %Y" }}</span> |
+            <span class="project-course">{{ project.course }}</span>
+          </div>
           <div class="project-details" id="project-{{ project.slug }}" style="display: none;">
-            <div class="project-date">{{ project.date | date: "%B %Y" }}</div>
             {{ project.content }}
           </div>
         </div>
