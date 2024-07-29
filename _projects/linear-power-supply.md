@@ -10,4 +10,4 @@ In this project, we designed a linear power supply circuit to provide a steady 1
 
 **Skills:** Circuit Design, PSpice, Soldering
 
-![LPS Schematic](https://amanley97.github.io/files/lps-schematic.png "Schematic") ![LPS Board](https://amanley97.github.io/files/lps-board.jpg "Protoboard")
+![LPS Schematic](/images/lps-schematic.png "Schematic") ![LPS Board](/images/lps-board.jpg "Protoboard")

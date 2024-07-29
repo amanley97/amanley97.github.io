@@ -10,4 +10,4 @@ In this computer engineering project, we designed a system to wirelessly transmi
 
 **Skills:** C Programming
 
-![Transmitter](https://amanley97.github.io/files/transmitter.png "Transmitter") ![Receiver](https://amanley97.github.io/files/receiver.png "Receiver")
+![Transmitter](/images/transmitter.png "Transmitter") ![Receiver](/images/receiver.png "Receiver")

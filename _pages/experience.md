@@ -40,7 +40,7 @@ Taikan has been in business for 50 years, so it is extremely important for their
 * Efficient Workflow Documentation
 
 **Recommendations Received:**
-![Recommendation](https://amanley97.github.io/files/ewang.png "Recommendation")
+![Recommendation](/images/ewang.png "Recommendation")
 
 ## Electrical Engineering Intern
 **Peraton Incorporated - USPS Central Repair Facility**  

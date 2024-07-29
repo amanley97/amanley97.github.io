@@ -17,6 +17,6 @@ For our senior design capstone, we designed and built a modular alarm system. Th
 
 **Skills:** Python Programming, System Design, Hardware Prototyping, Wireless Communication
 
-![Overview](https://amanley97.github.io/files/seniordesign.jpg "Overview")
+![Overview](/images/seniordesign.jpg "Overview")
 
 See [here](https://github.com/amanley97/AI-larm) for project code!

@@ -10,4 +10,4 @@ We designed a custom frequency filter with a Low Pass, 6kHz cutoff, and 5V Gain.
 
 **Skills:** Circuit Design, PCB Software
 
-![Custom Filter Design](https://amanley97.github.io/files/filter.png "Filter Board")
+![Custom Filter Design](/images/filter.png "Filter Board")
