@@ -1,0 +1,31 @@
+---
+layout: default
+---
+
+{% if page.header.overlay_color or page.header.overlay_image or page.header.image %}
+  {% include page__hero.html %}
+{% endif %}
+
+{% if page.url != "/" and site.breadcrumbs %}
+  {% unless paginator %}
+    {% include breadcrumbs.html %}
+  {% endunless %}
+{% endif %}
+
+<div id="main" role="main">
+  {% include sidebar.html %}
+
+  <div class="about-page">
+    {% unless page.header.overlay_color or page.header.overlay_image %}
+      <h1 class="page__title">{{ page.title }}</h1>
+    {% endunless %}
+    <div class="about-content">
+      <div class="about-image">
+        <img src="{{ '/images/kueng.jpg' | relative_url }}" alt="KU-engineering">
+      </div>
+      <div class="about-text">
+        {{ content }}
+      </div>
+    </div>
+  </div>
+</div>

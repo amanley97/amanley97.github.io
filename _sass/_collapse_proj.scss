@@ -22,3 +22,30 @@
   padding: 10px;
   border-left: 3px solid mix(#fff, $gray, 25%);
 }
+
+.about-page {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px;
+}
+
+.about-content {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+
+.about-image {
+  margin-right: 20px;
+}
+
+.about-image img {
+  max-width: 300px;
+  height: auto;
+  border-radius: 8px;
+}
+
+.about-text {
+  max-width: 600px;
+}
