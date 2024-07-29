@@ -25,26 +25,26 @@ layout: default
         <div class="contact-me">
           <h3>Contact Me</h3>
           <ul class="author__urls social-icons">
-            {% if author.uri %}
-              <li><a href="{{ author.uri }}"><i class="fas fa-fw fa-link" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].website_label | default: "Website" }}</a></li>
+            {% if site.author.uri %}
+              <li><a href="{{ site.author.uri }}"><i class="fas fa-fw fa-link" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].website_label | default: "Website" }}</a></li>
             {% endif %}
-            {% if author.email %}
-              <li><a href="mailto:{{ author.email }}"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].email_label | default: "Email" }}</a></li>
+            {% if site.author.email %}
+              <li><a href="mailto:{{ site.author.email }}"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].email_label | default: "Email" }}</a></li>
             {% endif %}
-            {% if author.researchgate %}
-              <li><a href="{{ author.researchgate }}"><i class="fab fa-fw fa-researchgate" aria-hidden="true"></i> ResearchGate</a></li>
+            {% if site.author.researchgate %}
+              <li><a href="{{ site.author.researchgate }}"><i class="fab fa-fw fa-researchgate" aria-hidden="true"></i> ResearchGate</a></li>
             {% endif %}
-            {% if author.linkedin %}
-              <li><a href="https://www.linkedin.com/in/{{ author.linkedin }}"><i class="fab fa-fw fa-linkedin" aria-hidden="true"></i> LinkedIn</a></li>
+            {% if site.author.linkedin %}
+              <li><a href="https://www.linkedin.com/in/{{ site.author.linkedin }}"><i class="fab fa-fw fa-linkedin" aria-hidden="true"></i> LinkedIn</a></li>
             {% endif %}
-            {% if author.github %}
-              <li><a href="https://github.com/{{ author.github }}"><i class="fab fa-fw fa-github" aria-hidden="true"></i> Github</a></li>
+            {% if site.author.github %}
+              <li><a href="https://github.com/{{ site.author.github }}"><i class="fab fa-fw fa-github" aria-hidden="true"></i> Github</a></li>
             {% endif %}
-            {% if author.googlescholar %}
-              <li><a href="{{ author.googlescholar }}"><i class="fas fa-fw fa-graduation-cap"></i> Google Scholar</a></li>
+            {% if site.author.googlescholar %}
+              <li><a href="{{ site.author.googlescholar }}"><i class="fas fa-fw fa-graduation-cap"></i> Google Scholar</a></li>
             {% endif %}
-            {% if author.orcid %}
-              <li><a href="{{ author.orcid }}"><i class="ai ai-orcid-square ai-fw"></i> ORCID</a></li>
+            {% if site.author.orcid %}
+              <li><a href="{{ site.author.orcid }}"><i class="ai ai-orcid-square ai-fw"></i> ORCID</a></li>
             {% endif %}
           </ul>
         </div>
