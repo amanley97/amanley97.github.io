@@ -1,9 +1,9 @@
 ---
 title: "(AI)-larm: A Modular Alarm System"
-date: 2023-04-01
+date: 2023-05-01
 categories: projects
 slug: ai-larm
-course: EECS 542 (Senior Design II) - Spring 2023
+course: EECS 542 (Senior Design II)
 ---
 
 For our senior design capstone, we designed and built a modular alarm system. The goal was to create a simple wireless alarm system allowing the user to dynamically set up their environment based on their needs. The system is optimal for users like apartment/office renters who may not have the option to place wires through walls to install a traditional alarm system. Additionally, the system features facial recognition for deactivating the alarm, making it cutting edge and useful in various situations.
