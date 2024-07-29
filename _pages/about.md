@@ -1,7 +1,7 @@
 ---
 layout: landing
 permalink: /
-title: "About Me"
+title: "About Me: Alexander M. Manley"
 author_profile: false
 redirect_from: 
   - /about/
