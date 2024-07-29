@@ -7,7 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-![KU-engineering](/images/kueng.jpg)
 
 Hello All! My name is Alex, and I am a Master's Candidate in Computer Engineering at the University of Kansas. I am currently co-advised by [Dr. Heechul Yun](https://www.ittc.ku.edu/~heechul/) (University of Kansas) and [Dr. Mohammad Alian](https://alian.csl.cornell.edu/) (Cornell University) in the Computer Systems Lab.
 
