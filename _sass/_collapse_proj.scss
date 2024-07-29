@@ -33,7 +33,9 @@
 .about-content {
   display: flex;
   flex-direction: row;
-  align-items: flex-start;
+  align-items: center; /* Center align the items vertically */
+  justify-content: center; /* Center align the items horizontally */
+  max-width: 800px; /* Optional: set a max-width to the container */
 }
 
 .about-image {
