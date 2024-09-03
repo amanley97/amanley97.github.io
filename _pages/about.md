@@ -2,15 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle: 
-
+subtitle: >
+    Graduate Computer Engineer affiliated with the 
+    <a href='https://www.ittc.ku.edu/~heechul/people.html'>Computer Systems Lab</a>
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    Graduate Computer Engineer affiliated with the 
-    <a href='https://www.ittc.ku.edu/~heechul/people.html'>Computer Systems Lab</a>
+  more_info: 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
