@@ -9,17 +9,16 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Lawrence, KS USA</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
+Hello All! My name is Alex, and I am a Master's Candidate in Computer Engineering at the University of Kansas. I am currently co-advised by [Dr. Heechul Yun](https://www.ittc.ku.edu/~heechul/) (University of Kansas) and [Dr. Mohammad Alian](https://alian.csl.cornell.edu/) (Cornell University) in the Computer Systems Lab.
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+My primary interests are in Computer Architecture, Hardware System Design, and Machine Learning Assisted Design. Throughout my studies, I have gained a deep understanding of advanced hardware topics, programming, and computer system simulations. Please check out my [research page](/research/) for more details!
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+In my free time, I enjoy hiking and admiring the great outdoors, as well as engaging in carpentry projects. Recently, I spent time learning electrical, plumbing, painting, and finish work while building my family's rural barndominium.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+In the future, I hope to join the big tech industry and contribute to cutting-edge processing at the forefront of technology!
