@@ -5,7 +5,7 @@ permalink: /projects/
 description: Here are some of the projects I have worked on during my academic career.
 nav: true
 nav_order: 3
-display_categories: [coursework]
+display_categories: [Coursework]
 horizontal: false
 ---
 
