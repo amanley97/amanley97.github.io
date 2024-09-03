@@ -1,10 +1,10 @@
 ---
 layout: page
 title: AI-larm
-description: A modular alarm system
+description: EECS 542 (Senior Design II) - A modular alarm system.
 img: assets/img/projects/seniordesign.jpg
 importance: 1
-category: work
+category: Coursework
 related_publications: false
 ---
 
