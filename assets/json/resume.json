@@ -5,7 +5,7 @@
     "image": "",
     "email": "amanley097@gmail.com",
     "phone": "(469) 534-2115",
-    "url": "http://www.alexmanley.dev",
+    "url": "https://www.alexmanley.dev",
     "summary": "",
     "location": {
       "address": "",
@@ -34,10 +34,11 @@
       "area": "Computer Engineering",
       "studyType": "Master of Science",
       "startDate": "",
-      "endDate": "Expected May 2025",
+      "endDate": "May 2025",
       "score": "3.75",
       "courses": [
-        "Focus: Computer Architecture and Systems"
+        "Focus: Computer Architecture and Systems",
+        "Courses: Advanced Computer Architecture, Embedded Machine Learning, Modern Computer Organization and Design" 
       ]
     },
     {
@@ -49,7 +50,7 @@
       "endDate": "May 2023",
       "score": "3.53",
       "courses": [
-        "Honors: Undergraduate Distinction Scholarship, Undergraduate Research Award, Undergraduate Research Fellowship, Dean’s List"
+        "Courses: Digital Logic Design, Embedded Systems, Digital Systems Design, Computer Architecture, Operating Systems"
       ]
     }
   ],
@@ -60,8 +61,11 @@
       "website": "",
       "startDate": "Fall 2023",
       "endDate": "",
-      "summary": "Operated as lab manager, ensuring safe environment and productive student collaboration. Offered insight to guide student projects to achieve success. Maintained positive communication with students to develop engaging environment.",
-      "highlights": []
+      "highlights": [
+        "Operated as lab manager, ensuring safe environment and productive student collaboration.",
+        "Offered insight to guide student projects to achieve success.",
+        "Maintained positive communication with students to develop engaging environment."
+      ]
     },
     {
       "company": "Taikan Company",
@@ -69,8 +73,12 @@
       "website": "",
       "startDate": "May 2023",
       "endDate": "August 2023",
-      "summary": "Utilized PCB software to modernize company design process, simplifying board development and turnaround. Developed quality procedure setup to enable in‑house verification of hardline cable products. Updated product lines to utilize SMD technology enabling reduction in manufacture time. Provided documentation to streamline engineering design efficiency.",
-      "highlights": []
+      "highlights": [
+        "Utilized PCB software to modernize company design process, simplifying board development and turnaround.",
+        "Developed quality procedure setup to enable in‑house verification of hardline cable products.",
+        "Updated product lines to utilize SMD technology enabling reduction in manufacture time.",
+        "Provided documentation to streamline engineering design efficiency."
+      ]
     },
     {
       "company": "Peraton Incorporated - USPS Central Repair Facility",
@@ -78,8 +86,12 @@
       "website": "",
       "startDate": "May 2022",
       "endDate": "August 2022",
-      "summary": "Developed retrieval system to allow for rapid on‑site screening of dimensioner cameras. Reverse Engineered motor controller leading to 1,200 dollar cost savings per repair. Designed test fixture to allow for rapid testing of system controller leading to reduction of screening time by 50 percent. Wrote documentation to organize system layout and ensure project repeatability.",
-      "highlights": []
+      "highlights": [
+        "Developed retrieval system to allow for rapid on‑site screening of dimensioner cameras.",
+        "Reverse Engineered motor controller leading to 1,200 dollar cost savings per repair.",
+        "Designed test fixture to allow for rapid testing of system controller leading to reduction of screening time by 50 percent.",
+        "Wrote documentation to organize system layout and ensure project repeatability."
+      ]
     }
   ],
   "volunteer": [],
@@ -187,7 +199,6 @@
       ],
       "keywords": [],
       "startDate": "Spring 2023",
-      "endDate": "",
       "url": "https://github.com/amanley97/AI-larm",
       "roles": [],
       "entity": "",
@@ -202,7 +213,6 @@
       ],
       "keywords": [],
       "startDate": "Fall 2022",
-      "endDate": "",
       "url": "",
       "roles": [],
       "entity": "",
@@ -217,7 +227,6 @@
       ],
       "keywords": [],
       "startDate": "Fall 2022",
-      "endDate": "",
       "url": "",
       "roles": [],
       "entity": "",
@@ -233,7 +242,6 @@
       ],
       "keywords": [],
       "startDate": "Summer 2022",
-      "endDate": "",
       "url": "",
       "roles": [],
       "entity": "",
@@ -249,7 +257,6 @@
       ],
       "keywords": [],
       "startDate": "Fall 2021",
-      "endDate": "",
       "url": "",
       "roles": [],
       "entity": "",
@@ -264,7 +271,6 @@
       ],
       "keywords": [],
       "startDate": "Fall 2021",
-      "endDate": "",
       "url": "",
       "roles": [],
       "entity": "",
