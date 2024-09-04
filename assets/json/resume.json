@@ -26,8 +26,8 @@
       "location": "Lawrence, KS",
       "area": "Computer Engineering",
       "studyType": "Master of Science",
-      "startDate": "May 2025",
-      "endDate": "May 2025",
+      "startDate": "2023",
+      "endDate": "2025",
       "score": "3.75",
       "courses": [
         "Focus: Computer Architecture and Systems",
@@ -39,8 +39,8 @@
       "location": "Lawrence, KS",
       "area": "Computer Engineering",
       "studyType": "Bachelor of Science",
-      "startDate": "May 2023",
-      "endDate": "May 2023",
+      "startDate": "2019",
+      "endDate": "2023",
       "score": "3.53",
       "courses": [
         "Courses: Digital Logic Design, Embedded Systems, Digital Systems Design, Computer Architecture, Operating Systems"
@@ -52,7 +52,7 @@
       "company": "The University of Kansas",
       "position": "Graduate Teaching Assistant",
       "website": "",
-      "startDate": "Fall 2023",
+      "startDate": "",
       "endDate": "Fall 2023",
       "highlights": [
         "Operated as lab manager, ensuring safe environment and productive student collaboration.",
@@ -64,7 +64,7 @@
       "company": "Taikan Company",
       "position": "RF Hardware Engineering Intern",
       "website": "",
-      "startDate": "Summer 2023",
+      "startDate": "",
       "endDate": "Summer 2023",
       "highlights": [
         "Utilized PCB software to modernize company design process, simplifying board development and turnaround.",
@@ -77,7 +77,7 @@
       "company": "Peraton Incorporated - USPS Central Repair Facility",
       "position": "Electrical Engineering Intern",
       "website": "",
-      "startDate": "Summer 2022",
+      "startDate": "",
       "endDate": "Summer 2022",
       "highlights": [
         "Developed retrieval system to allow for rapid on‑site screening of dimensioner cameras.",
