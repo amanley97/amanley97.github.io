@@ -5,7 +5,7 @@ description: Developing mitigation techniques for resource contention in real-ti
 img: assets/img/projects/bru.jpg
 importance: 2
 category: research
-related_publications: true
+related_publications: false
 ---
 
 **Project:** Providing Determinism and Performance through Bandwidth Regulation

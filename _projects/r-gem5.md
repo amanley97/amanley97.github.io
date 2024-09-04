@@ -5,7 +5,7 @@ description: Utilizing AI and simulators to teach the next generation.
 img: assets/img/projects/gem5.png
 importance: 1
 category: research
-related_publications: true
+related_publications: false
 ---
 
 ### The Future of Computer Architecture
