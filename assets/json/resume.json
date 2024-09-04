@@ -2,18 +2,11 @@
   "basics": {
     "name": "Alexander Manley",
     "label": "Graduate Student in Computer Engineering",
-    "image": "",
     "email": "amanley097@gmail.com",
     "phone": "(469) 534-2115",
     "url": "https://www.alexmanley.dev",
     "summary": "",
-    "location": {
-      "address": "",
-      "postalCode": "",
-      "city": "Lawrence",
-      "countryCode": "USA",
-      "region": "Kansas"
-    },
+    "location": "Lawrence, KS",
     "profiles": [
       {
         "network": "GitHub",
@@ -30,10 +23,11 @@
   "education": [
     {
       "institution": "The University of Kansas",
-      "url": "",
+      "location": "Lawrence, KS",
       "area": "Computer Engineering",
       "studyType": "Master of Science",
-      "date": "Expected May 2025",
+      "startDate": "May 2025",
+      "endDate": "May 2025",
       "score": "3.75",
       "courses": [
         "Focus: Computer Architecture and Systems",
@@ -42,10 +36,11 @@
     },
     {
       "institution": "The University of Kansas",
-      "url": "",
+      "location": "Lawrence, KS",
       "area": "Computer Engineering",
       "studyType": "Bachelor of Science",
-      "date": "May 2023",
+      "startDate": "May 2023",
+      "endDate": "May 2023",
       "score": "3.53",
       "courses": [
         "Courses: Digital Logic Design, Embedded Systems, Digital Systems Design, Computer Architecture, Operating Systems"
@@ -57,7 +52,8 @@
       "company": "The University of Kansas",
       "position": "Graduate Teaching Assistant",
       "website": "",
-      "date": "Fall 2023",
+      "startDate": "Fall 2023",
+      "endDate": "Fall 2023",
       "highlights": [
         "Operated as lab manager, ensuring safe environment and productive student collaboration.",
         "Offered insight to guide student projects to achieve success.",
@@ -68,7 +64,8 @@
       "company": "Taikan Company",
       "position": "RF Hardware Engineering Intern",
       "website": "",
-      "date": "Summer 2023",
+      "startDate": "Summer 2023",
+      "endDate": "Summer 2023",
       "highlights": [
         "Utilized PCB software to modernize company design process, simplifying board development and turnaround.",
         "Developed quality procedure setup to enable in‑house verification of hardline cable products.",
@@ -80,13 +77,21 @@
       "company": "Peraton Incorporated - USPS Central Repair Facility",
       "position": "Electrical Engineering Intern",
       "website": "",
-      "date": "Summer 2022",
+      "startDate": "Summer 2022",
+      "endDate": "Summer 2022",
       "highlights": [
         "Developed retrieval system to allow for rapid on‑site screening of dimensioner cameras.",
         "Reverse Engineered motor controller leading to 1,200 dollar cost savings per repair.",
         "Designed test fixture to allow for rapid testing of system controller leading to reduction of screening time by 50 percent.",
         "Wrote documentation to organize system layout and ensure project repeatability."
       ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Edward Wang - President at Taikan Company",
+      "icon": "fa-solid fa-laptop",
+      "reference": "Alex was an active member of the team while he was an intern during his time at Taikan. It wasn't uncommon for Alex to be assigned to several different projects and had to learn the details with little guidance. His ability to adapt and then deliver upon these projects made him a dependable team player. In addition, Alex felt comfortable providing recommendations for initiatives or processes that were outside his assigned tasks. Any organization would be lucky to have him as part of the team."
     }
   ],
   "volunteer": [],
@@ -182,7 +187,6 @@
   ],
   "languages": [],
   "interests": [],
-  "references": [],
   "projects": [
     {
       "name": "(AI)-larm: A Modular Home Alarm System",
