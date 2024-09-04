@@ -2,10 +2,10 @@
 layout: page
 title: projects
 permalink: /projects/
-description: Here are some of the projects I have worked on during my academic career.
+description: Here are some of the projects I have worked on during my career.
 nav: true
 nav_order: 3
-display_categories: [Coursework]
+display_categories: [research, academic, work]
 horizontal: false
 ---
 

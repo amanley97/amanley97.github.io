@@ -3,8 +3,8 @@ layout: page
 title: Car-bedded
 description: EECS 388 (Embedded Systems) - Designed motorized RC car using various embedded systems.
 img: assets/img/projects/embedded.jpg
-importance: 4
-category: Coursework
+importance: 5
+category: academic
 related_publications: false
 ---
 

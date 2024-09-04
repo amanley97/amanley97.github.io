@@ -3,8 +3,8 @@ layout: page
 title: Custom Filter Design
 description: EECS 212 (Circuits II) - OpAmp Filter from Scrath.
 img: assets/img/projects/filter.jpg
-importance: 5
-category: Coursework
+importance: 6
+category: academic
 related_publications: false
 ---
 

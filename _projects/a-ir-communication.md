@@ -3,8 +3,8 @@ layout: page
 title: Microcontroller Infrared Communication System
 description: EECS 541 (Senior Design I) - Transmitter and Reciever of data via infrared.
 img: assets/img/projects/transmitter.jpg
-importance: 2
-category: Coursework
+importance: 3
+category: academic
 related_publications: false
 ---
 

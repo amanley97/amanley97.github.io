@@ -4,7 +4,7 @@ title: Linear Power Supply
 description: EECS 541 (Senior Design I) - Linear power supply designed to output specified parameters.
 img: assets/img/projects/lps-board.jpg
 importance: 4
-category: Coursework
+category: academic
 related_publications: false
 ---
 
