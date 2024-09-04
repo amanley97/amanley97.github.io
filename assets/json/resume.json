@@ -11,7 +11,7 @@
       "address": "",
       "postalCode": "",
       "city": "Lawrence",
-      "countryCode": "US",
+      "countryCode": "USA",
       "region": "Kansas"
     },
     "profiles": [
@@ -33,8 +33,7 @@
       "url": "",
       "area": "Computer Engineering",
       "studyType": "Master of Science",
-      "startDate": "",
-      "endDate": "May 2025",
+      "date": "Expected May 2025",
       "score": "3.75",
       "courses": [
         "Focus: Computer Architecture and Systems",
@@ -46,8 +45,7 @@
       "url": "",
       "area": "Computer Engineering",
       "studyType": "Bachelor of Science",
-      "startDate": "",
-      "endDate": "May 2023",
+      "date": "May 2023",
       "score": "3.53",
       "courses": [
         "Courses: Digital Logic Design, Embedded Systems, Digital Systems Design, Computer Architecture, Operating Systems"
@@ -59,8 +57,7 @@
       "company": "The University of Kansas",
       "position": "Graduate Teaching Assistant",
       "website": "",
-      "startDate": "Fall 2023",
-      "endDate": "",
+      "date": "Fall 2023",
       "highlights": [
         "Operated as lab manager, ensuring safe environment and productive student collaboration.",
         "Offered insight to guide student projects to achieve success.",
@@ -71,8 +68,7 @@
       "company": "Taikan Company",
       "position": "RF Hardware Engineering Intern",
       "website": "",
-      "startDate": "May 2023",
-      "endDate": "August 2023",
+      "date": "Summer 2023",
       "highlights": [
         "Utilized PCB software to modernize company design process, simplifying board development and turnaround.",
         "Developed quality procedure setup to enable in‑house verification of hardline cable products.",
@@ -84,8 +80,7 @@
       "company": "Peraton Incorporated - USPS Central Repair Facility",
       "position": "Electrical Engineering Intern",
       "website": "",
-      "startDate": "May 2022",
-      "endDate": "August 2022",
+      "date": "Summer 2022",
       "highlights": [
         "Developed retrieval system to allow for rapid on‑site screening of dimensioner cameras.",
         "Reverse Engineered motor controller leading to 1,200 dollar cost savings per repair.",
@@ -198,7 +193,7 @@
         "Developed intuitive interface for user operation."
       ],
       "keywords": [],
-      "startDate": "Spring 2023",
+      "date": "Spring 2023",
       "url": "https://github.com/amanley97/AI-larm",
       "roles": [],
       "entity": "",
@@ -212,7 +207,7 @@
         "Utilized Arduino microcontroller to encode/decode packets while ensuring transmission rate of 2100 bps."
       ],
       "keywords": [],
-      "startDate": "Fall 2022",
+      "date": "Fall 2022",
       "url": "",
       "roles": [],
       "entity": "",
@@ -226,7 +221,7 @@
         "Simulated the circuit in PSpice before implementing on a protoboard."
       ],
       "keywords": [],
-      "startDate": "Fall 2022",
+      "date": "Fall 2022",
       "url": "",
       "roles": [],
       "entity": "",
@@ -241,7 +236,7 @@
         "Manufactured industrial motor control system to ascend and descend pulley system."
       ],
       "keywords": [],
-      "startDate": "Summer 2022",
+      "date": "Summer 2022",
       "url": "",
       "roles": [],
       "entity": "",
@@ -256,7 +251,7 @@
         "Utilized Raspberry Pi and RISC‑V ISA development environment."
       ],
       "keywords": [],
-      "startDate": "Fall 2021",
+      "date": "Fall 2021",
       "url": "",
       "roles": [],
       "entity": "",
@@ -270,7 +265,7 @@
         "Routed circuit board in OrCAD while adhering to design rules."
       ],
       "keywords": [],
-      "startDate": "Fall 2021",
+      "date": "Fall 2021",
       "url": "",
       "roles": [],
       "entity": "",
