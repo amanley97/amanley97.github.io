@@ -5,7 +5,7 @@ description: Developing mitigation techniques for resource contention in real-ti
 img: assets/img/projects/bru.jpg
 importance: 2
 category: research
-related_publications: false
+related_publications: true
 ---
 
 **Project:** Providing Determinism and Performance through Bandwidth Regulation
@@ -20,3 +20,5 @@ The design was implemented and evaluated on real hardware using an FPGA SoC Fram
 * **Implementation Tools:** FireSim, Chipyard SoC Framework
 * **Analysis Tools:** Cadence Genus, Innovus, Voltus
 * **Benchmarks:** Synthetic, SD-VBS, SPEC 2017
+
+Related publications: {% cite SullivanRegulation2024 %},
