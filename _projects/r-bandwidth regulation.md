@@ -21,4 +21,4 @@ The design was implemented and evaluated on real hardware using an FPGA SoC Fram
 * **Analysis Tools:** Cadence Genus, Innovus, Voltus
 * **Benchmarks:** Synthetic, SD-VBS, SPEC 2017
 
-Related publications: {% cite SullivanRegulation2024 %},
+Related publications: {% cite SullivanRegulation2024 %}
