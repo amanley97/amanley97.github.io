@@ -4,7 +4,7 @@
     "label": "Graduate Student in Computer Engineering",
     "email": "amanley097@gmail.com",
     "phone": "(469) 534-2115",
-    "url": "https://www.alexmanley.dev",
+    "url": "https://alexmanley.dev",
     "summary": "",
     "location": "Lawrence, KS",
     "profiles": [
@@ -31,7 +31,7 @@
       "score": "3.75",
       "courses": [
         "Focus: Computer Architecture and Systems",
-        "Courses: Advanced Computer Architecture, Embedded Machine Learning, Modern Computer Organization and Design" 
+        "Courses: Advanced Computer Architecture, Embedded Machine Learning, Modern Computer Organization and Design, Program Synthesis" 
       ]
     },
     {
@@ -50,15 +50,41 @@
   "work": [
     {
       "company": "The University of Kansas",
+      "position": "Graduate Research Assistant",
+      "website": "",
+      "startDate": "2023",
+      "endDate": "Present",
+      "summary": "The University of Kansas",
+      "highlights": [
+        "Utilizing novel large language models and reinforcement learning for generative AI solutions to design space exploration.",
+        "Developing a modern educational training platform to teach computer architecture integrated with gem5 simulation.",
+        "Optimized custom IP to regulate memory accesses to shared LLC - providing defense against denial-of-service cache bank contention attacks in real-time systems."
+      ]
+    },
+    {
+      "company": "The University of Kansas",
       "position": "Graduate Teaching Assistant",
       "website": "",
       "startDate": "Fall",
       "endDate": "2023, 2024",
       "summary": "The University of Kansas",
       "highlights": [
-        "Operated as lab manager, ensuring safe environment and productive student collaboration.",
-        "Offered insight to guide student projects to achieve success.",
-        "Maintained positive communication with students to develop engaging environment."
+        "Mentor students to achieve successful projects, ensuring safe environment and productive student collaboration.",
+		    "Provide flexible, adaptive advice based on the unique needs and goals of each team.",
+		    "Nurture a collaborative environment,  fostering critical analysis and solution-oriented teamwork."
+      ]
+    },
+    {
+      "company": "The University of Kansas",
+      "position": "Undergraduate Research Fellow",
+      "website": "",
+      "startDate": "2020",
+      "endDate": "2023",
+      "summary": "The University of Kansas",
+      "highlights": [
+        "Applied processing-in-memory (PIM) techniques and alternative write queue models to mitigate the memory bottleneck of high-performance servers.",
+        "Developed FPGA-accelerated FireSim simulation to discover hardware-level bottlenecks of gem5.",
+        "Cross-compiled PARSEC benchmarks for the ARM ISA to run on gem5 full system environment."
       ]
     },
     {
@@ -160,6 +186,7 @@
         "C++ (Object‑Oriented)",
         "C",
         "Python",
+        "Scala",
         "Bash",
         "VHDL"
       ]
