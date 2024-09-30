@@ -9,7 +9,7 @@ giscus_comments: true
 related_posts: false
 toc:
   beginning: true
-thumbnail: assets/img/openshift.png
+thumbnail: assets/img/redhat/openshift.png
 ---
 
 ## Introduction
@@ -26,22 +26,22 @@ As a beginner to all things in cloud development, the OpenShift platform simplif
 ## OpenShift Features
 
 ### Project Management
-{% include figure.liquid loading="eager" path="assets/img/redhat-project.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+{% include figure.liquid loading="eager" path="assets/img/redhat/redhat-project.png" class="img-fluid rounded z-depth-1" zoomable=true %}
 
 The main menu of the OpenShift software. Allows for us to create the project, manage resources, create pipelines, and view the networking routes!
 
 ### Managing the Inner Loop
-{% include figure.liquid loading="eager" path="assets/img/redhat-inner-loop.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+{% include figure.liquid loading="eager" path="assets/img/redhat/redhat-inner-loop.png" class="img-fluid rounded z-depth-1" zoomable=true %}
 
 Projects utilize Git and an integrated IDE to allow for the project to easily be worked on! Openshift takes care of all the necessary setup, allowing the developer to just put together the application like running a Python Flask server!
 
 ### Running AI Model Servers
-{% include figure.liquid loading="eager" path="assets/img/redhat-models.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+{% include figure.liquid loading="eager" path="assets/img/redhat/redhat-models.png" class="img-fluid rounded z-depth-1" zoomable=true %}
 
 With the push to utilize AI, it becomes necessary to provide adequate resources to run them. OpenShift AI allows for models to be deployed from S3 Object Storage buckets and then deployed. The model servers are unaffected by the application server and can be easily utilized through a REST API! Integrated Intel AMX support makes the model servers' response time very snappy!
 
 ### Deploying to the Outer Loop
-{% include figure.liquid loading="eager" path="assets/img/redhat-deploy.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+{% include figure.liquid loading="eager" path="assets/img/redhat/redhat-deploy.png" class="img-fluid rounded z-depth-1" zoomable=true %}
 
 Lastly, the OpenShift platform easily allows the developed application to be deployed from the inner loop. Once satisfied with their program, a pipeline can be created that generates a public url to your new cloud service!
 
@@ -52,7 +52,7 @@ As I mentioned earlier, I had zero initial knowledge on cloud architecture and d
 
 My overall comment would be to suggest that RedHat works toward a unified documentation for the OpenShift platform. It's clear that the software itself is very well thought out and not too difficult to grasp, but better documentation would take it to the next level!
 
-After discussions with the OpenShift representative [Daniel Schimpfoessl](https://www.linkedin.com/in/schimpfoessl/) at the event, he wanted to remind us that OpenShift is still in its infancy. The platform will only continue to improve.
+After discussions with the OpenShift representative [Daniel Schimpfoessl](https://sessionize.com/schimpfoessl/) at the event, he wanted to remind us that OpenShift is still in its infancy. The platform will only continue to improve.
 
 ### Pros of Using OpenShift
 The project itself really are what shines for the platform, go check out my write-up on my projects page [here](/projects). What impressed me most was what my team and I were able to accomplish in 24 hours. To reiterate, I had no prior experience in cloud development and yet I was able to build and deploy a working application from scratch.
