@@ -8,7 +8,6 @@ categories: opinion-posts
 giscus_comments: true
 related_posts: false
 toc:
-  beginning: true
   sidebar: left
 thumbnail: assets/img/redhat/openshift.png
 ---
@@ -27,24 +26,28 @@ As a beginner to all things in cloud development, the OpenShift platform simplif
 ## OpenShift Features
 
 ### Project Management
-{% include figure.liquid loading="eager" path="assets/img/redhat/redhat-project.png" class="img-fluid rounded z-depth-1" zoomable=true %}
 
 The main menu of the OpenShift software. Allows for us to create the project, manage resources, create pipelines, and view the networking routes!
 
+{% include figure.liquid loading="eager" path="assets/img/redhat/redhat-project.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+
 ### Managing the Inner Loop
-{% include figure.liquid loading="eager" path="assets/img/redhat/redhat-inner-loop.png" class="img-fluid rounded z-depth-1" zoomable=true %}
 
 Projects utilize Git and an integrated IDE to allow for the project to easily be worked on! Openshift takes care of all the necessary setup, allowing the developer to just put together the application like running a Python Flask server!
 
+{% include figure.liquid loading="eager" path="assets/img/redhat/redhat-inner-loop.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+
 ### Running AI Model Servers
-{% include figure.liquid loading="eager" path="assets/img/redhat/redhat-models.png" class="img-fluid rounded z-depth-1" zoomable=true %}
 
 With the push to utilize AI, it becomes necessary to provide adequate resources to run them. OpenShift AI allows for models to be deployed from S3 Object Storage buckets and then deployed. The model servers are unaffected by the application server and can be easily utilized through a REST API! Integrated Intel AMX support makes the model servers' response time very snappy!
 
-### Deploying to the Outer Loop
-{% include figure.liquid loading="eager" path="assets/img/redhat/redhat-deploy.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+{% include figure.liquid loading="eager" path="assets/img/redhat/redhat-models.png" class="img-fluid rounded z-depth-1" zoomable=true %}
 
-Lastly, the OpenShift platform easily allows the developed application to be deployed from the inner loop. Once satisfied with their program, a pipeline can be created that generates a public url to your new cloud service!
+### Deploying to the Outer Loop
+
+The OpenShift platform easily allows the developed application to be deployed from the inner loop. Once satisfied with their program, a pipeline can be created that generates a public url to your new cloud service!
+
+{% include figure.liquid loading="eager" path="assets/img/redhat/redhat-deploy.png" class="img-fluid rounded z-depth-1" zoomable=true %}
 
 ## Final Thoughts
 
