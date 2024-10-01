@@ -5,7 +5,7 @@ date: 2024-09-30 4:59:00-0400
 description: Utilizing the RedHat OpenShift platform as a newbie to cloud development.
 tags: learning
 categories: opinion-posts
-giscus_comments: true
+giscus_comments: false
 related_posts: false
 toc:
   sidebar: left
@@ -29,25 +29,25 @@ As a beginner to all things in cloud development, the OpenShift platform simplif
 
 The main menu of the OpenShift software. Allows for us to create the project, manage resources, create pipelines, and view the networking routes!
 
-{% include figure.liquid loading="eager" path="assets/img/redhat/redhat-project.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+{% include figure.liquid loading="eager" path="assets/img/redhat/redhat-project.png" class="img-fluid rounded z-depth-1" %}
 
 ### Managing the Inner Loop
 
 Projects utilize Git and an integrated IDE to allow for the project to easily be worked on! Openshift takes care of all the necessary setup, allowing the developer to just put together the application like running a Python Flask server!
 
-{% include figure.liquid loading="eager" path="assets/img/redhat/redhat-inner-loop.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+{% include figure.liquid loading="eager" path="assets/img/redhat/redhat-inner-loop.png" class="img-fluid rounded z-depth-1" %}
 
 ### Running AI Model Servers
 
 With the push to utilize AI, it becomes necessary to provide adequate resources to run them. OpenShift AI allows for models to be deployed from S3 Object Storage buckets and then deployed. The model servers are unaffected by the application server and can be easily utilized through a REST API! Integrated Intel AMX support makes the model servers' response time very snappy!
 
-{% include figure.liquid loading="eager" path="assets/img/redhat/redhat-models.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+{% include figure.liquid loading="eager" path="assets/img/redhat/redhat-models.png" class="img-fluid rounded z-depth-1" %}
 
 ### Deploying to the Outer Loop
 
 The OpenShift platform easily allows the developed application to be deployed from the inner loop. Once satisfied with their program, a pipeline can be created that generates a public url to your new cloud service!
 
-{% include figure.liquid loading="eager" path="assets/img/redhat/redhat-deploy.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+{% include figure.liquid loading="eager" path="assets/img/redhat/redhat-deploy.png" class="img-fluid rounded z-depth-1" %}
 
 ## Final Thoughts
 
