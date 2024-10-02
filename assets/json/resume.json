@@ -195,6 +195,9 @@
       "name": "Software",
       "level": "",
       "keywords": [
+        "Red Hat OpenShift",
+        "Cadence Genus",
+        "Cadence Innovus",
         "Xilinx Vivado Suite",
         "AutoDesk EAGLE",
         "OrCAD",
@@ -210,6 +213,7 @@
       "keywords": [
         "Multimeter",
         "Function Generator",
+        "Network Analyzer",
         "Oscilloscope",
         "Soldering Station"
       ]
