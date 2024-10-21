@@ -2,7 +2,7 @@
 layout: page
 title: Shared Resource Contention in Real-Time Systems
 description: Developing mitigation techniques for resource contention in real-time-systems.
-img: assets/img/projects/bru.jpg
+img: assets/img/projects/bru.png
 importance: 2
 category: research
 related_publications: true
