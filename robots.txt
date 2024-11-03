@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://www.alexmanley.dev//sitemap.xml
+Sitemap: https://alexmanley.dev//sitemap.xml
