@@ -23,7 +23,7 @@ In the future, I hope to join the big tech industry and contribute to cutting-ed
 
 {% include figure.liquid loading="eager" path="assets/img/hiking.jpg" class="img-fluid rounded z-depth-1" %}
 <div class="caption">
-    My recent hiking trip to Coloroado's Rocky Mountain National Park in early 2024!
+    My recent hiking trip to Colorado's Rocky Mountain National Park in early 2024!
 </div>
 
 In my free time, I enjoy hiking and admiring the great outdoors, as well as engaging in carpentry projects. Recently, I spent time learning electrical, plumbing, painting, and finish work while building my family's rural barndominium.
