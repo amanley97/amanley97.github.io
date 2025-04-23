@@ -1,5 +1,6 @@
 source 'https://rubygems.org'
 group :jekyll_plugins do
+    gem 'jekyll-redirect-from'
     gem 'classifier-reborn'
     gem 'jekyll'
     gem 'jekyll-archives'
